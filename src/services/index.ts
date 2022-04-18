@@ -1,0 +1,1 @@
+export { JsonPlaceholderEndPoints } from './JsonPlaceholderApi';
